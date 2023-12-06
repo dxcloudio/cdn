@@ -1,0 +1,12 @@
+{
+    "v1": {
+        "ios": {
+            "appVersion" : "",
+		    "appId" : ""
+        },
+        "android": {
+            "appVersion" : "",
+		    "appId" : ""
+        }
+    }
+}

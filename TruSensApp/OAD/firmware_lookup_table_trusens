@@ -1,0 +1,204 @@
+{
+  "v1":
+  {
+    "ts03":
+    {
+      "wifi":
+      {
+        "1.0.12":
+        {
+          "otad":
+          {
+            "ver": "1.0.14",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1014.bin",
+            "fp": "88 8A 30 BB B1 25 3F 92 BD 41 5B EF EB 26 08 A8 41 75 4A 06"
+          }
+        },
+        "1.0.12a":
+        {
+          "otad":
+          {
+            "ver": "1.0.14a",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1014a.bin",
+            "fp": "88 8A 30 BB B1 25 3F 92 BD 41 5B EF EB 26 08 A8 41 75 4A 06"
+          }
+        },
+        "1.0.13":
+        {
+          "otad":
+          {
+            "ver": "1.0.14",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1014.bin",
+            "fp": "88 8A 30 BB B1 25 3F 92 BD 41 5B EF EB 26 08 A8 41 75 4A 06"
+          }
+        },
+        "1.0.13a":
+        {
+          "otad":
+          {
+            "ver": "1.0.14",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1014.bin",
+            "fp": "88 8A 30 BB B1 25 3F 92 BD 41 5B EF EB 26 08 A8 41 75 4A 06"
+          }
+        },
+        "1.0.14x":
+        {
+          "otad":
+          {
+            "ver": "1.0.14a",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1014a.bin",
+            "fp": "88 8A 30 BB B1 25 3F 92 BD 41 5B EF EB 26 08 A8 41 75 4A 06"
+          }
+        },
+        "1.0.14a":
+        {
+          "otad":
+          {
+            "ver": "1.0.12a",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1012a.bin",
+            "fp": "88 8A 30 BB B1 25 3F 92 BD 41 5B EF EB 26 08 A8 41 75 4A 06"
+          }
+        }
+      },
+      "ble":
+      {
+        "1.0.28":
+        {
+          "otad":
+          {
+            "ver": "1.0.31",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31.bin",
+            "name": "TRS TS03 R31",
+            "retain": true
+          }
+        },
+        "1.0.29":
+        {
+          "otad":
+          {
+            "ver": "1.0.31",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31.bin",
+            "name": "TRS TS03 R31",
+            "retain": true
+          }
+        },
+        "1.0.29a":
+        {
+          "otad":
+          {
+            "ver": "1.0.31",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31.bin",
+            "name": "TRS TS03 R31",
+            "retain": true
+          }
+        },
+        "1.0.30":
+        {
+          "otad":
+          {
+            "ver": "1.0.31",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31.bin",
+            "name": "TRS TS03 R31",
+            "retain": true
+          }
+        },
+        "1.0.30a":
+        {
+          "otad":
+          {
+            "ver": "1.0.31",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31.bin",
+            "name": "TRS TS03 R31",
+            "retain": true
+          }
+        },
+        "1.0.31x":
+        {
+          "otad":
+          {
+            "ver": "1.0.31a",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31a.bin",
+            "name": "TRS TS03 R31a",
+            "retain": true
+          }
+        },
+        "1.0.31ax":
+        {
+          "otad":
+          {
+            "ver": "1.0.31",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_TS03_R31.bin",
+            "name": "TRS TS03 R31",
+            "retain": true
+          }
+        }
+
+      }
+    },
+
+    "ec864":
+    {
+      "wifi":
+      {
+        "1.0.12":
+        {
+          "otad":
+          {
+            "ver": "1.0.12a",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1012a.bin",
+            "fp": "DA 28 02 BB 36 95 53 A5 CE 2F EF DC 2E C4 DC 75 3A 2A C2 E2"
+          }
+        },
+        "1.0.12a":
+        {
+          "otad":
+          {
+            "ver": "1.0.12",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/ESP8266/1012.bin",
+            "fp": "DA 28 02 BB 36 95 53 A5 CE 2F EF DC 2E C4 DC 75 3A 2A C2 E2"
+          }
+        }
+      },
+      "ble":
+      {
+        "1.0.28":
+        {
+          "otad":
+          {
+            "ver": "1.0.28a",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_EC864_R28a.bin",
+            "name": "TRS EC864 R25a",
+            "retain": true
+          }
+        },
+        "1.0.28a":
+        {
+          "otad":
+          {
+            "ver": "1.0.28",
+            "date": "Tue Jan 1 2020 21:32:04 GMT-0500",
+            "url": "https://dxcorefns.blob.core.windows.net/public/TruSensApp/OAD/CC2640/TRS_EC864_R28.bin",
+            "name": "TRS EC864 R28",
+            "retain": true
+          }
+        }
+      }
+    }
+  }
+}
